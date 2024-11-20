@@ -4,10 +4,10 @@ from streamlit_navigation_bar import st_navbar
 import os
 from PIL import Image
 
-image = Image.open('img/barca.png')
+image = Image.open('img/images.png')
 st.set_page_config(initial_sidebar_state="collapsed", page_icon=image)
 
-logo_path = os.path.join(os.path.dirname(__file__), "img", "barca.svg")
+logo_path = os.path.join(os.path.dirname(__file__), "img", "images (1).svg")
 pages = ['Home','Project1', 'Project2', 'Project3']
 
 styles = {
