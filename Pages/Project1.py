@@ -25,11 +25,8 @@ class Project1:
             if column:
 
                 unique_values = df[column].unique()
-                selected_values = st.multiselect(f"Select values for {column}", options=unique_values,
-                                                 default=unique_values)
-
+                selected_values = st.multiselect(f"Select values for {column}", options=unique_values, default=unique_values)
                 filtered_df = df[df[column].isin(selected_values)]
-
                 st.dataframe(filtered_df, height=400, width=600)
         else:
             st.warning("Please upload a CSV file")

@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e0897f0-9cf0-41db-ae9b-bca06b5290a8" name="Changes" comment="fff">
-      <change afterPath="$PROJECT_DIR$/img/images (1).svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/images.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App.py" beforeDir="false" afterPath="$PROJECT_DIR$/App.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pages/Project1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/Project1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/barca.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/barca.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/Project2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/Project2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,15 +46,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.App.executor": "Run",
-    "Python.Project3.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/nikit/PycharmProjects/avon/img"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.App.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Project3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/nikit/PycharmProjects/avon/img&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\nikit\PycharmProjects\avon\img" />
@@ -95,7 +92,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730371858071</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fff">
+      <option name="closed" value="true" />
+      <created>1732094510168</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732094510168</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

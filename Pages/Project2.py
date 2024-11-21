@@ -7,13 +7,12 @@ from yt_dlp import YoutubeDL
 from streamlit_webrtc import webrtc_streamer, WebRtcMode
 
 class Project2:
-    def _init_(self):
+    def __init__(self):
         self.cap = None
 
     def app(self):
         st.title('Video stream in Streamlit')
 
-        # Выбор источника видео
         source_option = st.selectbox(
             "Pick up source of the video stream",
             ("Mobile camera", "YouTube link", "Local drive", "Web-camera", "RTSP")
@@ -61,7 +60,7 @@ class Project2:
 
 
         run_button = st.button("Run")
-        frame_place = st.empty()  # Место для показа видео
+        frame_place = st.empty()
 
 
         if source_option == "Mobile camera" and img_file is not None:
