@@ -27,7 +27,7 @@ class Home:
 
         # Load Assets
         self.lottie_coding = self.load_lottery("https://assets5.lottiefiles.com/packages/lf20_fcfjwiyb.json")
-        img_contact_form = Image.open("/img/P1010026.JPG")
+        img_contact_form = Image.open("/img/images.png")
         img_lottie_animation = Image.open("/img/p1010026.jpg")
 
         # Header Section
