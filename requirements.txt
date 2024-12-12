@@ -33,7 +33,7 @@ numpy==1.26.4
 opencv-python-headless
 packaging==24.1
 pandas==2.2.3
-pillow==10.4.0
+pillow
 protobuf==4.25.5
 pyarrow==18.0.0
 pycparser==2.22
