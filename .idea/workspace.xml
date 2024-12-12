@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e0897f0-9cf0-41db-ae9b-bca06b5290a8" name="Changes" comment="28112024">
-      <change afterPath="$PROJECT_DIR$/img/P1010026.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/style.css" afterDir="false" />
+    <list default="true" id="6e0897f0-9cf0-41db-ae9b-bca06b5290a8" name="Changes" comment="05122024">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.py" beforeDir="false" afterPath="$PROJECT_DIR$/App.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pages/Home.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/Home.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -140,13 +139,41 @@
       <option name="project" value="LOCAL" />
       <updated>1732770829981</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="05122024">
+      <option name="closed" value="true" />
+      <created>1733396407519</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1733396407519</updated>
+    </task>
+    <task id="LOCAL-00010" summary="05122024">
+      <option name="closed" value="true" />
+      <created>1733396415230</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1733396415230</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fff" />
     <MESSAGE value="21112024" />
     <MESSAGE value="28112024" />
-    <option name="LAST_COMMIT_MESSAGE" value="28112024" />
+    <MESSAGE value="05122024" />
+    <option name="LAST_COMMIT_MESSAGE" value="05122024" />
   </component>
 </project>
